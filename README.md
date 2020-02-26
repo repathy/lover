@@ -1,5 +1,6 @@
 # Lovepage
-一个表白网页
+源码来自：
+https://github.com/HarryHq/Lovepage
 
 运行效果
 
